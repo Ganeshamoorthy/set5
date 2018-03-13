@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-int main(void) 
+int main() 
 {
 	char s[50];
 	int i,count=0;
-	printf("enter the string:");
+	printf("enter the strings:");
 	scanf("%s",s);
 	for(i=0;s[i]!='\0';i++)
 	{
