@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void) 
 {
-	int n,temp,a,b,c,d;
+	int k,temp,a,b,c,d;
 	scanf("%d",&k);
 	temp=k;
 	if(temp!=2)
